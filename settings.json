@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ice-smp.aternos.me",
+    "ip": "rohu.aternos.host",
     "port": 42231,
     "version": "",
     "try-creative": false
