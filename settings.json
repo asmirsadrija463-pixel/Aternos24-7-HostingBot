@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hackal.aternos.host",
+    "ip": "eland.aternos.host",
     "port": 42231,
     "version":"1.21.11",
     "try-creative": false
